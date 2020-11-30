@@ -5297,8 +5297,8 @@ header-style-seven .nav-toggler:hover{
 	top: 0;
 	height: 100%;
 	width: 100%;
-	background: #222222;
-	opacity: 0.85;
+	background: #888585;
+	opacity: 0.50;
 	content: "";
 }
 
