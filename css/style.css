@@ -89,7 +89,8 @@
 ***/
 
 body {
-
+	margin-left: 15px;
+	margin-right: 15px;
 	font-size:14px;
 	color:#777777;
 	line-height: 28px;
@@ -511,7 +512,7 @@ img{
 }
 
 .scroll-to-top:hover{
-	background:#ff8a00;
+	background:#e9e6e3;
 	color: #222222;
 }
 
@@ -534,7 +535,7 @@ img{
 
 .main-header .header-top{
 	position: relative;
-	background-color: #ffa900;
+	background-color: #39aa68;
 }
 
 .main-header .top-left{
@@ -621,6 +622,7 @@ img{
 }
 
 .main-header .main-box{
+	margin-right: 15px;
 	position:relative;
 	display: block;
 }
@@ -928,7 +930,7 @@ img{
 }
 
 .social-icon-one li a:hover{
-	color: #ff8a00;
+	color: #ffffff;
 }
 
 
@@ -951,17 +953,18 @@ img{
 	float: left;
 	font-size: 14px;
 	line-height: 30px;
-	color: #aaaaaa;
+	color: #fffdfd;
 	font-weight: 400;
 }
 
 .main-header .contact-info li a{
-	color: #222222;
+	font-weight: bold;
+	color: #0c0a0a;
 	transition: all 300ms ease;
 }
 
 .main-header .contact-info li a:hover{
-	color: #ff8a00;
+	color: #30dd72;
 }
 
 
@@ -1026,7 +1029,7 @@ img{
 	margin: 0 auto;
 	height:0px;
 	width: 2px;
-	background-color: #ff8a00;
+	background-color: #20160b;
 	content: "";
 	-webkit-transition: all 300ms ease;
 	-moz-transition: all 300ms ease;
@@ -1653,7 +1656,7 @@ img{
 	border: 1px solid rgba(255,255,255,0.40);
 	font-size: 14px;
 	line-height: 30px;
-	color: #ff8a00;
+	color: #ffffff;
 	text-align: center;
 	font-weight: 400;
 	margin-right: 10px;
